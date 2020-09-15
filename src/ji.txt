@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my commit my comit2
+=======
+other commit
+>>>>>>> d2b7c79487fb2d7b4afd89df916d29759c30baa3
